@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A repayring of the breach Wherein, is shewed the benefit that comes by a Christian communion among the saints.</title>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15512</idno><idno type="EEBO-CITATION">99841472</idno>
+  <idno type="VID">176895</idno>
+  <idno type="EEBO-PROQUEST">2240922814</idno>
+  <idno type="STC">STC 20889.3</idno>
+  <idno type="STC">ESTC S105746</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99841472e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15512)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176895)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 717:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A repayring of the breach Wherein, is shewed the benefit that comes by a Christian communion among the saints.</title>
+               </titleStmt>
+               <extent>[2], 16 [i.e. 14] p.   </extent>
+               <publicationStmt>
+                  <publisher>Richt Right Press],</publisher>
+                  <pubPlace>[Amsterdam :</pubPlace>
+                  <date>Printed in the yeare 1639.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and printer from STC.</note>
+                  <note>Pages 2-3 missing in number only; text continuous despite pagination.</note>
+                  <note>Identified as STC 20889a on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Moravian Church --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Communion of saints --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176895:1"/>
+            <pb facs="tcp:176895:1"/>
+            <p>A REPAYRING OF THE BREACH. WHEREIN, Is shewed the benefit that comes by a Christian Communion among the Saints.</p>
+            <q>
+               <bibl>1 <hi>Cor.</hi> 1.10.</bibl>
+               <p>I beseech you Brethren, by the name of our Lord Jesus Christ, that yee all speake the same thing, and that there be no divisions among you: but that yee bee perfectly joyned together in the same minde, and in the same judgement.</p>
+            </q>
+            <figure>
+               <figDesc>seal</figDesc>
+               <p>RIGHT RIGHT</p>
+            </figure>
+            <p>Printed in the yeare 1639.</p>
+         </div>
+      </front>
+      <body>
+         <div type="address">
+            <pb facs="tcp:176895:2"/>
+            <pb n="1" facs="tcp:176895:2"/>
+            <head>
+               <figure>
+                  <figDesc>seal surrounded by decorative cornucopiae</figDesc>
+                  <p>COR VNVM▪ VIA VNA</p>
+               </figure>
+               <hi>A Repayring of the Breach.</hi> Wherein is shewed the benefit that comes by a Chri<g ref="char:EOLhyphen"/>stian Communion among the Saints.</head>
+            <opener>
+               <salute>Worthy Sir:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He receipt of your benevolence, did give me cause the last Weeke to expresse unto you my thankefulnesse for the same, in declaring how farte, through the conside<g ref="char:EOLhyphen"/>ration of the same, as proceeding from the hand of God; I did finde my selfe ob<g ref="char:EOLhyphen"/>liged for his sake, to persevere in this kinde of publike Service, which I have undertaken hitherto, with approba<g ref="char:EOLhyphen"/>tion and consent of all parties, to further the Communion
+<pb n="4" facs="tcp:176895:3"/>of Saints, in matters of mutuall Edification. My heart is still full of this subject, and I am glad to take any op<g ref="char:EOLhyphen"/>portunitie to utter my selfe in it.</p>
+            <p>Therefore I must discourse once more with you, to re<g ref="char:EOLhyphen"/>present unto you, and to such as you shall bee pleased to acquaint the matter, withall, the necessitie and usefulnesse of these endeavours, wherein Mr. <hi>Comenius</hi> and Ilabour, as Agents of the publike welfare of Gods Church.</p>
+            <p>If then we consider Gods will, if we consider our own felicitie, if wee reflect upon the state of our dearest Bre<g ref="char:EOLhyphen"/>thren, if wee take to heart the things intended in this ne<g ref="char:EOLhyphen"/>gotiation, if wee looke upon the times whereinto we are falue, and lastly, if we observe the practises of the adver<g ref="char:EOLhyphen"/>saries of Religion and truth, wee shall see a most urgent necessitie of this studie, which many yeares agoe by a cer<g ref="char:EOLhyphen"/>taine providence of God, wee have beene moved to undertake, and with much difficultie through many streits have untill this day continued.</p>
+            <p>The thing which we ayme at is, a serious endeavour to bee brought into the mindes of all godly and learned men, whereby the fruit of holy communion may bee ripened and made usefull to all such, as are capable of the same, both within and without the Church of God, that in the mutuall Communication of Gods good guifts, the bodie of Christ may bee built up within it selfe, when every joint receiveth from another the communicable vertue which it hath, and such as are without that bodie, may have a way prepared for them, to become Citizens of the Commonwealth of Israel. For this is the will of God, that his goodnesse should appeare through his Children
+<pb n="5" facs="tcp:176895:3"/>into the world, that hee may shine forth in them, and that it may appeare, that they are called out of this evill and crooked generation, whereby they shine as lights in the world. holding forth the word of life to others, that if it bee the will of God, by their meanes they may bee sa<g ref="char:EOLhyphen"/>ved.</p>
+            <p>I say this is the will of God, even the manifestation of his owne love to us, and in us, whereby we are constrai<g ref="char:EOLhyphen"/>ned in him to love one another, and all those that are cre<g ref="char:EOLhyphen"/>ated after his Image, that wee all may bee in him, and made perfect in that unitie of the spirit, wherein hee hath called us.</p>
+            <p>For let a man consider the words of the Apostle, <hi>Ephes.</hi> 4.1. till 17. Hee shall see, that the end of our calling, is nothing else but the manifestation of this love of God, and that the meanes to attaine unto this end, is none other but the Unitie of Gods Children in one spirit, to advance holy endeavours in the sight of the world.</p>
+            <p>For this end hee hath sanctified and separated his Church from the world, that it may bee a Tabernacle of of him by the spirit, and for this end hath hee ordained the Communion of Saints, that all such as live by one Spirit, should bee obliged to a mutuall conjunction of endeavours, through the operation of that Spirit. <hi>Ioh.</hi> 17. 1 <hi>till.</hi> 7.</p>
+            <p>For Christ in the solemne request which hee made be<g ref="char:EOLhyphen"/>fore his death unto his heavenly Father, when hee had made first request for himselfe, and then for his Disciples, lastly hee prayeth for the whole Church, that should be<g ref="char:EOLhyphen"/>leeve through the ministery of their word, <hi>Vers.</hi> 7. <hi>till</hi> 20.
+<pb n="6" facs="tcp:176895:4"/>And in this part of the Prayer, the chiefe thing which hee doth insist upon, and urgently with much repetition re<g ref="char:EOLhyphen"/>quireth, is this; That they (saith hee) may bee one, as thou, O Father art in mee, and I in thee, even that they may bee one also in us, that the world may beleeve, that thou hast sent mee; and the glorie that thou gavest mee, I have given them, that they may be one as wee are one, I in them, and thou in mee, that they may bee made per<g ref="char:EOLhyphen"/>fect in one, and that the world may know that thou hast sent mee, and hast loved them, as thou hast loved mee.</p>
+            <p>By which it appeareth, what the intention and will of God is, in the Communion of Saints, even to worke a perfect Union of his Children in his onely well beloved Jesus Christ, that by this union of all the members of his Body to him, that is the Head and root of this conjunction of all soules unto God; the glory of Gods goodnesse may appeare in this, that Christ is sent into the world, and that the Father loveth, that beleeve in him, as hee hath loved Christ himselfe, by which meanes the world shall be mooved, both to beleeve and to know, that the Father hath sent his Sonne for the Salvation of mankind.</p>
+            <p>Thus then, as wee are bound in conscience to glorifie, and manifest the glorie of Gods goodness unto the world, so wee are bound to studie and endeavour through godly love, for an holy conjunction of mens spirits, and a spiri<g ref="char:EOLhyphen"/>tuall communion in all manner of loving and godly en<g ref="char:EOLhyphen"/>deavours, because in these Gods love doth appeare unto mankinde, and without these, the world shall never know, that the Father hath sent his onely begotten unto
+<pb n="7" facs="tcp:176895:4"/>the World for our Redemption.</p>
+            <p>If wee consider this truly, and lay it to heart, wee can<g ref="char:EOLhyphen"/>not but resolve to live in the Communion of Saints, that is to say, not to live unto our selves, but unto the welfare of others.</p>
+            <p>For Christ sought not himselfe, but sought us, and re<g ref="char:EOLhyphen"/>nounced himselfe for us, that hee might receive us into the glorie of God, even then when wee were his enemies.</p>
+            <p>Therefore the Apostle <hi>Phil.</hi> 2. having exhorted us with much intreatie, <hi>vers.</hi> 1, 2, 3. to have one minde, one love, and to avoid all occasions of disunion, hee biddeth us not to looke every man on his owne things, but every man also on the things of other men, and to perswade us to this, hee willeth us to follow Christs example, in let<g ref="char:EOLhyphen"/>ting the same minde to bee with us, which was in Christ Jesus, who being in the forme of God, for our sake through love, became like one of us, and was in the forme of a Servant, obedient unto his Father in our stead, even unto the death.</p>
+            <p>Love is strong like death, Love doth affimilate those in whom it dwelleth one to another. It did assimilate Christ unto us, and now if wee will entertaine it, in let<g ref="char:EOLhyphen"/>ting the same mind which was in him to us, bee in us to him againe, it will assimilate our Soules to his, and bring us unto the perfect state of true felicitie.</p>
+            <p>For herein is our felicitie, that the same minde may bee in us, which was in him, for similitude of mindes is true love, and where the same mindes are, there will bee the like actions.</p>
+            <p>Now wee know if wee follow the footsteps of Christ
+<pb n="8" facs="tcp:176895:5"/>through faith in love, and obedience, that wee shall bee happy; because hee is gone before us into the rest that is prepared for the children of God, and hath chalked out a new and living way unto us, whereby we may draw neere unto the most holy, and so rest under the shadow of his wings, through the evidence of his love. For herein is the love of God evident, when by it, we are brought to set up our rest in this resolution, that wee will not live unto out selves, but unto the Communion of Saints. For he that liveth herein doth live in God, and God in him, which in the true and onely felicity of the soule, so long as it is in this world. For in this holy Communion, is the true use of the spirit, and whatsoever is done in this state to this end by us is a part of that treasure which Christ willeth us to lay up in heaven where the Moth and Canker doth not corrupt our substance.</p>
+            <p>It is then the Communion of Saints, which is the store<g ref="char:EOLhyphen"/>house where the Apostle willeth the rich of this world to lay up to themselves a good foundation that they may ob<g ref="char:EOLhyphen"/>teine eternall life. I say the state of this communion is the storehouse of heavenly treasure, and a sure resting place for the soule to know that it shall inherite eternall live, be<g ref="char:EOLhyphen"/>cause the Apostle saith, that wee know wee are translated from death to life, because wee love the brethren, and he that loveth not the brethren abideth in death.</p>
+            <p>So then if we respect the will of God, and in that will, if we seeke the true state of happines unto our own soules. Let us resolve to enter into the course of life, whereby we may become partakers of the communion of Saints, not intending to live unto our selves, but as one member is
+<pb n="9" facs="tcp:176895:5"/>created in our naturall body to serve another member, so we should set our mindes to bee servants unto others for their good, as being members one of another in the body of Iesus Christ.</p>
+            <p>For if a man will partake of the spirit whereby that body is animated, hee must keepe close unto his fellow members, and in his owne calling and function be painfull in serving the same.</p>
+            <p>Consider I pray you the 12, 13, 14, chap. of the first to the <hi>Corinthians.</hi> There the Apostle intending to shew the way to attain to spirituall guifts, declareth, that in respect of every man by himselfe, there was none other way for him, then to endeavour the communion of Saints. Chap. 12, and to exercise charity. Chap. 13. And in respect of the whole congregation, there was no better meanes, then to labour for the guift of prophecying, whereby hee may bee able to edifie many.</p>
+            <p>For the more a man can inlarge himselfe in the meanes of doing good to his brethren, the more happy he is.</p>
+            <p>For he that soweth much in such a ground, shall not faile to reape the fruit of his labour in due time.</p>
+            <p>The spirits of Gods children are a rich soile, the man therefore is happy that helpeth to labour it, and sow good seed in it.</p>
+            <p>Now then is the time wherein we should bee diligent. Let us consider the state of our brethren. Are they not those Protestants, by whose meanes God hath derived the knowledge of his truth unto us? Are they not such as have suffered, and do suffer the brunt of the battaile? Are they not members of our head Iesus Christ?</p>
+            <pb n="10" facs="tcp:176895:6"/>
+            <p>Hath he not given his life for them and us together's to make us one in himselfe?</p>
+            <p>Hath he not begotten us by one word of life, and sealed us with one spirit, and called us by one calling to one hope?</p>
+            <p>Hath he not appointed us to be helpers one to another, that in so doing our own stocke may be increased?</p>
+            <p>And can we refuse to have a faithfull and brotherly care of those that are lincked to us by so many respects? If wee have no such care.</p>
+            <p>It is not an evident token, that the life whereby Christs body is animated is not in us?</p>
+            <p>For how can one member in a lively body bee affected, and the other not at all sympathize with it? Or can the head say to the eye, I have no need of you, or any one member to another, I care not for you? If this then be the state of brethren, of those that are begotten in the bosome of one Church, by the heavenly seed of the same lively word, and call with one mouth upon one father?</p>
+            <p>It must needs follow, that whosoever doth reflect up<g ref="char:EOLhyphen"/>on his owne conscience in respect of his brethren, must find himselfe obliged in an high degree, both for Gods sake and his owne sake, and for their sake, to procure their good, and to say with David. For my brethren and neighbours sake, I will wish thee now prosperity, because of the house of the Lord our God, I will procure thy wealth. <hi>Psal.</hi> 122.</p>
+            <p>But this is not yet all, there is more to move us, to a reall conjunction in these endeavours.</p>
+            <p>For consider, I pray you, what the thing is to which we should contribute our talents one for another. Is it not for the advancement of Gods Kingdome in truth, peace,
+<pb n="11" facs="tcp:176895:6"/>ousnes; and holinesse? Is it not to set forward the meanes of heavenly knowledge of comfort and hope, with joy in the holy Ghost? Is it not to banish ignorance and confusion out of mens understanding, and to bring their affections into the frame of Gods will in the beauty of holinesse? Is it not to cast down the inventions of mens braine in the pride of earthly imaginations, that all high things that lift themselves up against the knowledge of Jesus Christ may be led captive under his obedience? Is it not to root out scandals, to overthrow Antichristianisme, and to streng<g ref="char:EOLhyphen"/>then the children of God against the man of sinne?</p>
+            <p>Now how can these things bee brought to passe, ex<g ref="char:EOLhyphen"/>cept wee endeavour, upon the grounds of Gods word and covenant the counsell of. Reformation both in Church and schooles, both in the minds and in the maners of yong and old that are not unwilling to tend unto perfection.</p>
+            <p>For we are called to aime at perfection it selfe, because our father that is in heaven, who calleth us is perfect, and we are commanded to strive to be like unto him. Matth. 5, 48.</p>
+            <p>Therefore if these endeavours be in the very best things that can bee thought upon, and in the most necessary ob<g ref="char:EOLhyphen"/>jects, for the good of: Church and Commonwealth, and in the most usefull and profitable for the fundamentals of all states which seeme to bee shaken by the confusions and disorders of this later age of the world, and in the most de<g ref="char:EOLhyphen"/>lightfull matters that can satisfie the hungry soules with wisedome and righteous directions.</p>
+            <p>I say if these endeavours tend only to ripen and bring to maturity such things by the meanes of an unbleamable
+<note place="bottom">Note that the next page followes not in order as thou mayst see by looking on the number. For direction Therefore leave the page following, and read the next to it, and afterwards come backe and read the same, and so the rest in order.</note>
+               <pb n="12" facs="tcp:176895:7"/>communication of godly counsels, and such guists as God hath bestowed upon men in his Church for mutuall edifi<g ref="char:EOLhyphen"/>cation.</p>
+            <p>Then we see that hee cannot bee said to love the prospe<g ref="char:EOLhyphen"/>rity of Jerusalem, who knowing these intentions and ob<g ref="char:EOLhyphen"/>jects to be in agitation, and hath no zeale nor warming of bowels to concurre with some helpe to further the same, as God doth give him ability, to joyne in the communion of Saints. And this so much the rather, because the zeale of many is become now a dayes so cold, and charity is so much decayed amongst the professors of Religion.</p>
+            <p>For who can sufficiently deplore the miserable distracti<g ref="char:EOLhyphen"/>ons of these times, wherein every man is lead in a pri<g ref="char:EOLhyphen"/>vate way for himselfe? What will become at last of us, if we have no common ayme, if wee take not up some infal<g ref="char:EOLhyphen"/>lible rule to walke by, and ridd our selves of private and partiall intentions.</p>
+            <p>Certeinly the gospell of Christ, and whatsoever is in Christ, and tending towards the life of Christianity: is of an universall nature, and cannot be subject to bee blamed by any, of what side and party soever they be.</p>
+            <p>For to seeke after the grounds of true godly love and holinesse, and to search for the grounds of knowledge which may reforme scandals and abuses in all mens under<g ref="char:EOLhyphen"/>standings and affections, and to gather up the consen<g ref="char:EOLhyphen"/>ting advise of all able men concurring in these thoughts upon infallible cleere principles, cannot bee lyable to any reproch, although all or most men seeke after a particular ayme in their singular affections, and labour to oppose one another for matters of supposed difference, wherein they
+<pb n="13" facs="tcp:176895:7"/>mixe commonly most batefull passions and practises, by which the end of all religious worship is overthrowne in their owne spirits, and with those with whom they have to doe.</p>
+            <p>For the end of the preaching of the Gospell in accord<g ref="char:EOLhyphen"/>ing to the Apostls saying. Love unfayned proceeding from true faith in a good conscience.</p>
+            <p>But now alas the times are such, that nothing is lesse thought upon or intended then the worke of godly and simple love to do good unto all, and especially to such as are of the household of faith, but one brother doth perse<g ref="char:EOLhyphen"/>cute another, and helpeth destroy, overthrow, and betray another, and all together (except some few that mourne for the afflictions of Joseph here and there) labour to main<g ref="char:EOLhyphen"/>teine for this or that opinion a severall party.</p>
+            <p>I doe not blame all zeale for one opinion or doctrine more then another. But I deplore this. That the zeale to maintaine particular truthes, doth hinder us from the true ayme and scope of our heavenly calling, which if wee did truly intend in the communion of Saints, and did not ar<g ref="char:EOLhyphen"/>rogate to much, unto our selves in a private way, or would not indiscreetly and too peremptorily vent our opinions, and impose them as lawes upon the conscience of other men, but would in the meeknesse of an humble spirit seeke for meanes tending to the manifestation of fundamentall truths by way of amiable communication.</p>
+            <p>Then wee should bee able to riddour soules of all this confusion which now doth overwhelme us. And the pe<g ref="char:EOLhyphen"/>stilent jealousies and evill surmises of different parties
+<pb n="14" facs="tcp:176895:8"/>would cease and come to some end.</p>
+            <p>Therefore it importeth those that will not bee guilty of the evils of these times, and deserve the judgements which partiall aymes draw upon this generation, to take truly universall thoughts to heart, which tend to advance and perfect love and peace in truth and holinesse, by such meanes as are fit to rectifie the faculty both of reason and conscience, and facilitate learning in after ages.</p>
+            <p>For in the mad humor of contradictions, both reasons and conscience are lost and neglected, and from these losses all other evills proceed, and God doth in his justice suffer the adversaries of true religion to prevaile and bring a<g ref="char:EOLhyphen"/>gaine upon the Churches a vaile of darknesse, and a yoke of papall jurisdiction, by which the conscience is captivated under the power of men, and made void of the light of spi<g ref="char:EOLhyphen"/>rituall knowledge.</p>
+            <p>What shall we say then? Shall we not take to heart our heavenly calling? Shall we not intend the meanes of true edification?</p>
+            <p>If neither the will of God, nor the happines of our own soule, nor the state of our brethren afflicted, nor the excel<g ref="char:EOLhyphen"/>lency of matter to be thought upon, nor the miseries of the times, and the evills arising from the divisions of mens in<g ref="char:EOLhyphen"/>tentions, &amp; want of godly communicaton can moue us, at least, let us for outward respects, even for feare of prevai<g ref="char:EOLhyphen"/>ling adversaries, that ayme at an universall overthrow of all Protestants, take to heart the true meanes of mutuall preservation, which can bee none other, then a reall con<g ref="char:EOLhyphen"/>junction of spirits in the fundamentals of the Gospell, and
+<pb n="15" facs="tcp:176895:8"/>in the principles of true learning, If we joyne in these, and helpe forward the reall manifestation of all truths belon<g ref="char:EOLhyphen"/>ging thereunto.</p>
+            <p>We may be sure, that the more our adversaries prevaile with outward might, and bring our bodies in subjection, the more our spirits shall bee strengthened in godlinesse and knowledge, and in bearing witnesse thereof unto those that shall persecute us, we shall haply by the grace of God conquer their soules, and make them become our loving brethren in stead of adversaries.</p>
+            <p>Is it not a wonder to see worldly men for worldly ends to bee so constant, and to keepe so closely together, and prosecute joyntly one common ayme in the ignorance of superstitious zeale, whiles those that are indued with knowledge, and are fit to reprove their ignorance and su<g ref="char:EOLhyphen"/>perstition are all divided and shaken to pieces every one standing for himself?</p>
+            <p>They have a worldly head, in a worldly manner, they professe themselves under him, and for his sake they ayme at a worldly dominion over us, with most effectuall and joynt endeavours.</p>
+            <p>But wee that have a spirituall head, and in a spirituall manner doe professe our selves united to him, and for his sake do ayme to manifest his spirituall dominion over all mens soules, yet wee cannot come to any effectuall and joint endeavours to prosecute this ayme.</p>
+            <p>But wee stand every one in a severall way, and straine for by-matters, whiles the maine scope is not re<g ref="char:EOLhyphen"/>garded.</p>
+            <pb n="16" facs="tcp:176895:9"/>
+            <p>Now the Lord remedy the great evill, and stirre up more faithfull coadjutors in this worke, and preserve those that do undertake, and you in particular, and reward you for the good will you have testified to me in parti<g ref="char:EOLhyphen"/>cular, who am for his sake.</p>
+            <closer>
+               <signed>Your faithfull Servant in Jesus Christ.</signed>
+            </closer>
+            <pb facs="tcp:176895:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
